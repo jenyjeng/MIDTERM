@@ -1,0 +1,2 @@
+COPY design_app.py /home/myapp
+COPY midterm_app.py /home/myapp
